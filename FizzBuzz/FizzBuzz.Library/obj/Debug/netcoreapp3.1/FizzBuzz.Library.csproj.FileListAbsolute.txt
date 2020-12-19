@@ -1,0 +1,9 @@
+F:\Estudos\TDD\studying-tdd\FizzBuzz\FizzBuzz.Library\bin\Debug\netcoreapp3.1\FizzBuzz.Library.deps.json
+F:\Estudos\TDD\studying-tdd\FizzBuzz\FizzBuzz.Library\bin\Debug\netcoreapp3.1\FizzBuzz.Library.dll
+F:\Estudos\TDD\studying-tdd\FizzBuzz\FizzBuzz.Library\bin\Debug\netcoreapp3.1\FizzBuzz.Library.pdb
+F:\Estudos\TDD\studying-tdd\FizzBuzz\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.csprojAssemblyReference.cache
+F:\Estudos\TDD\studying-tdd\FizzBuzz\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.AssemblyInfoInputs.cache
+F:\Estudos\TDD\studying-tdd\FizzBuzz\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.AssemblyInfo.cs
+F:\Estudos\TDD\studying-tdd\FizzBuzz\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.csproj.CoreCompileInputs.cache
+F:\Estudos\TDD\studying-tdd\FizzBuzz\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.dll
+F:\Estudos\TDD\studying-tdd\FizzBuzz\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.pdb
