@@ -1,0 +1,9 @@
+F:\Estudos\TDD\studying-tdd\Immutable Stack\Stacks.Library\bin\Debug\netcoreapp3.1\Stacks.Library.deps.json
+F:\Estudos\TDD\studying-tdd\Immutable Stack\Stacks.Library\bin\Debug\netcoreapp3.1\Stacks.Library.dll
+F:\Estudos\TDD\studying-tdd\Immutable Stack\Stacks.Library\bin\Debug\netcoreapp3.1\Stacks.Library.pdb
+F:\Estudos\TDD\studying-tdd\Immutable Stack\Stacks.Library\obj\Debug\netcoreapp3.1\Stacks.Library.csprojAssemblyReference.cache
+F:\Estudos\TDD\studying-tdd\Immutable Stack\Stacks.Library\obj\Debug\netcoreapp3.1\Stacks.Library.AssemblyInfoInputs.cache
+F:\Estudos\TDD\studying-tdd\Immutable Stack\Stacks.Library\obj\Debug\netcoreapp3.1\Stacks.Library.AssemblyInfo.cs
+F:\Estudos\TDD\studying-tdd\Immutable Stack\Stacks.Library\obj\Debug\netcoreapp3.1\Stacks.Library.csproj.CoreCompileInputs.cache
+F:\Estudos\TDD\studying-tdd\Immutable Stack\Stacks.Library\obj\Debug\netcoreapp3.1\Stacks.Library.dll
+F:\Estudos\TDD\studying-tdd\Immutable Stack\Stacks.Library\obj\Debug\netcoreapp3.1\Stacks.Library.pdb
