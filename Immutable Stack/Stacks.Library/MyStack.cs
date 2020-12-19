@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace Stacks.Library
+﻿namespace Stacks.Library
 {
     public class MyStack<T>
     {
